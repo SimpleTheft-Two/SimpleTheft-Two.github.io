@@ -1,0 +1,10 @@
+body {
+    background-color: dodgerblue;
+    font-family: Roboto;
+}
+button {
+    background-color: #fefefe;
+    border: none;
+    width: 70px;
+    height: 50px;
+}
