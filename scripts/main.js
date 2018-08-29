@@ -4,21 +4,21 @@ document.getElementById("").innerHTML = "";
 
 -------------------------
 
-document.getElementById("clTake").innerHTML = "";
-document.getElementById("ltTake").innerHTML = "";
-document.getElementById("wlTake").innerHTML = "";
-document.getElementById("lmTake").innerHTML = "";
-document.getElementById("mlTake").innerHTML = "";
-document.getElementById("deTake").innerHTML = "";
-document.getElementById("wTake").innerHTML = "";
-document.getElementById("flTake").innerHTML = "";
-document.getElementById("dwTake").innerHTML = "";
-document.getElementById("ehTake").innerHTML = "";
-document.getElementById("hsTake").innerHTML = "";
-document.getElementById("jlTake").innerHTML = "";
-document.getElementById("hrTake").innerHTML = "";
-document.getElementById("srTake").innerHTML = "";
-document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 
 -------------------------
 
@@ -148,14 +148,56 @@ Small-Size Jewelry
 function engravedHeart(){
   var ehtake = "$722,282";
   document.getElementById("ehTake").innerHTML = "Take = " + ehtake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function heartStone(){
   var hstake = "$682,844";
   document.getElementById("hsTake").innerHTML = "Take = " + hstake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function jeweLove(){
   var jltake = "$657,910";
   document.getElementById("jlTake").innerHTML = "Take = " + jltake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 /*
 Medium-Size Jewelry
@@ -163,12 +205,57 @@ Medium-Size Jewelry
 function hardRocks(){
   var hrtake = "$1,968,880";
   document.getElementById("hrTake").innerHTML = "Take = " + hrtake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function seaRocks(){
   var srtake = "$1,012,324";
   document.getElementById("srTake").innerHTML = "Take = " + srtake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function engagementJewelry(){
   var ejtake = "$980,864";
   document.getElementById("ejTake").innerHTML = "Take = " + ejtake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
 }
+/*
+Large-Size Jewelry
+*/
