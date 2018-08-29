@@ -1,6 +1,11 @@
 function crystaLiquor(){
   var cltake = "$14,942";
   document.getElementById("clTake").innerHTML = "Take = " + cltake;
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
 }
 function liquorTown(){
   var lttake = "$13,882";
