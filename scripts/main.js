@@ -6,10 +6,17 @@ function crystaLiquor(){
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
 }
 function liquorTown(){
   var lttake = "$13,882";
   document.getElementById("ltTake").innerHTML = "Take = " + lttake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
 }
 function wilsonLiquor(){
   var wltake = "$9,862";
@@ -26,4 +33,8 @@ function marketLiquor(){
 function drunkenEagle(){
   var detake = "$8,478";
   document.getElementById("deTake").innerHTML = "Take = " + detake;
+}
+function woodfortLiquor(){
+  var wtake = "$2,277";
+  document.getElementById("wTake").innerHTML = "Take = " + wtake;
 }
