@@ -1,5 +1,26 @@
 /*
+
+document.getELementById("").innerHTML = "";
+
+-------------------------
+
+document.getElementById("clTake").innerHTML = "";
+document.getElementById("ltTake").innerHTML = "";
+document.getElementById("wlTake").innerHTML = "";
+document.getElementById("lmTake").innerHTML = "";
+document.getElementById("mlTake").innerHTML = "";
+document.getElementById("deTake").innerHTML = "";
+document.getElementById("wTake").innerHTML = "";
+document.getElementById("flTake").innerHTML = "";
+document.getElementById("dwTake").innerHTML = "";
+document.getElementById("ehTake").innerHTML = "";
+document.getElementById("hsTake").innerHTML = "";
+document.getELementById("jlTake").innerHTML = "";
+
+-------------------------
+
 Large-Size Liquor
+
 */
 function crystaLiquor(){
   var cltake = "$14,942";
@@ -12,6 +33,9 @@ function crystaLiquor(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getELementById("").innerHTML = "";
 }
 function liquorTown(){
   var lttake = "$13,882";
@@ -114,4 +138,19 @@ function drunkWest(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
+}
+/*
+Small-Size Jewelry Stores
+*/
+function engravedHeart(){
+  var ehtake = "$722,282";
+  document.getELementById("ehTake").innerHTML = "Take = " + ehtake;
+}
+function heartStone(){
+  var hstake = "$682,844";
+  document.getElementById("hsTake").innerHTML = "Take = " + hstake;
+}
+function jeweLove(){
+  var jltake = "$657,910";
+  document.getELementById("jlTake").innerHTML = "Take = " + jltake;
 }
