@@ -92,7 +92,7 @@ function woodfortLiquor(){
   document.getElementById("dwTake").innerHTML = "";
 }
 function fallsworthLiquor(){
-  var fltake = "$";
+  var fltake = "$2,050";
   document.getElementById("flTake").innerHTML = "Take = " + fltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
