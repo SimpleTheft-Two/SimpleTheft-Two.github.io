@@ -14,3 +14,7 @@ function liquorMart(){
   var lmtake = "$8,048";
   document.getElementById("lmTake").innerHTML = "Take = " + lmtake;
 }
+function marketLiquor(){
+  var mltake = "$5,450";
+  document.getElementById("mlTake").innerHTML = "Take = " + mltake;
+}
