@@ -38,7 +38,10 @@ function crystaLiquor(){
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
-  document.getELementById("").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function liquorTown(){
   var lttake = "$13,882";
@@ -51,6 +54,12 @@ function liquorTown(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function wilsonLiquor(){
   var wltake = "$9,862";
@@ -63,6 +72,12 @@ function wilsonLiquor(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 /*
 Medium-Size Liquor
@@ -78,6 +93,12 @@ function liquorMart(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function marketLiquor(){
   var mltake = "$5,450";
@@ -90,6 +111,12 @@ function marketLiquor(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function drunkenEagle(){
   var detake = "$8,478";
@@ -102,6 +129,12 @@ function drunkenEagle(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 /*
 Small-Size Liquor
@@ -117,6 +150,12 @@ function woodfortLiquor(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function fallsworthLiquor(){
   var fltake = "$2,050";
@@ -129,6 +168,12 @@ function fallsworthLiquor(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 function drunkWest(){
   var dwtake = "$1,752";
@@ -141,6 +186,12 @@ function drunkWest(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
 }
 /*
 Small-Size Jewelry
