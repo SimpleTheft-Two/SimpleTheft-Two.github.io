@@ -18,3 +18,7 @@ function marketLiquor(){
   var mltake = "$5,450";
   document.getElementById("mlTake").innerHTML = "Take = " + mltake;
 }
+function drunkenEagle(){
+  var detake = "$8,478";
+  document.getElementById("deTake").innerHTML = "Take = " + detake;
+}
