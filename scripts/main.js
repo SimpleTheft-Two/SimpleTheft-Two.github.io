@@ -16,6 +16,9 @@ document.getElementById("dwTake").innerHTML = "";
 document.getElementById("ehTake").innerHTML = "";
 document.getElementById("hsTake").innerHTML = "";
 document.getELementById("jlTake").innerHTML = "";
+document.getELementById("hrTake").innerHTML = "";
+document.getELementById("srTake").innerHTML = "";
+document.getELementById("ejTake").innerHTML = "";
 
 -------------------------
 
@@ -140,7 +143,7 @@ function drunkWest(){
   document.getElementById("flTake").innerHTML = "";
 }
 /*
-Small-Size Jewelry Stores
+Small-Size Jewelry
 */
 function engravedHeart(){
   var ehtake = "$722,282";
@@ -153,4 +156,19 @@ function heartStone(){
 function jeweLove(){
   var jltake = "$657,910";
   document.getELementById("jlTake").innerHTML = "Take = " + jltake;
+}
+/*
+Medium-Size Jewelry
+*/
+function hardRocks(){
+  var hrtake = "$1,968,880";
+  document.getELementById("hrTake").innerHTML = "Take = " + hrtake;
+}
+function seaRocks(){
+  var srtake = "$1,012,324";
+  document.getELementById("srTake").innerHTML = "Take = " + srtake;
+}
+function engagementJewelry(){
+  var ejtake = "$980,864";
+  document.getELementById("ejTake").innerHTML = "Take = " + ejtake;
 }
