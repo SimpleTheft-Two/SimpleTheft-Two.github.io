@@ -10,3 +10,7 @@ function wilsonLiquor(){
   var wltake = "$9,862";
   document.getElementById("wlTake").innerHTML = "Take = " + wltake;
 }
+function liquorMart(){
+  var lmtake = "$8,048";
+  document.getElementById("lmTake").innerHTML = "Take = " + lmtake;
+}
