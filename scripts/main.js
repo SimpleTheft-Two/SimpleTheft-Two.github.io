@@ -21,30 +21,31 @@ $(function(){
     var mltake = "$";
     $("#mlTake").html("Take = " + mltake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.drunkeneagle = function (){
+    var detake = "$";
+    $("#deTake").html("Take = " + detake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  //Small Size Liquor
+  $.fn.woodfortliquor = function (){
+    var wtake = "$";
+    $("#wTake").html("Take = " + wtake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.fallsworthliquor = function (){
+    var fltake = "$";
+    $("#flTake").html("Take = " + fltake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.drunkWest = function (){
+    var dwtake = "$";
+    $("#dwTake").html("Take = " + dwtake);
   }
-  
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  //Large Size Jewelry
+  $.fn.goldengoose = function (){
+    var ggtake = "$";
+    $("#ggTake").html("Take = " + ggtake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.goldlodge = function (){
+    var gltake = "$";
+    $("#glTake").html("Take = " + gltake);
   }
   $.fn. = function (){
     var take = "$";
