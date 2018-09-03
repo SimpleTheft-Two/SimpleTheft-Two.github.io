@@ -32,6 +32,7 @@ document.getElementById("Take").innerHTML = "Take = " = take;
   document.getElementById("wbTakeT").innerHTML = "";
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = ""; Rose Holdings
+  
 -------------------------
 
 Large-Size Liquor
@@ -482,7 +483,7 @@ function (){
 -Size Banks
 */
 function (){
-  var take = "$";
+  var jctake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -512,7 +513,7 @@ function (){
   document.getElementById("rhTake").innerHTML = "";
 }
 function (){
-  var take = "$";
+  var ebtake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -542,7 +543,7 @@ function (){
   document.getElementById("rhTake").innerHTML = "";
 }
 function (){
-  var take = "$";
+  var tctake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -575,7 +576,7 @@ function (){
 -Size Banks
 */
 function (){
-  var take = "$";
+  var wbtaket = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -605,7 +606,7 @@ function (){
   document.getElementById("rhTake").innerHTML = "";
 }
 function (){
-  var take = "$";
+  var jbtake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -631,7 +632,7 @@ function (){
   document.getElementById("ebTake").innerHTML = "";
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTakeT").innerHTML = "";
-  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "Take = " = jbtake;
   document.getElementById("rhTake").innerHTML = "";
 }
 function roseHoldings(){
