@@ -22,7 +22,15 @@ document.getElementById("").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
-
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = ""; Rose Holdings
 -------------------------
 
 Large-Size Liquor
@@ -375,4 +383,283 @@ function diamondSea(){
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
+}
+/*
+Small-Size Banks
+*/
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+/*
+Medium-Size Banks
+*/
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+/*
+Large-Size Banks
+*/
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function (){
+  var take = "$";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
