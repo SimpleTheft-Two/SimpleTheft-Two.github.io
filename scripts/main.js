@@ -1,6 +1,7 @@
 /*
 
-document.getElementById("").innerHTML = "";
+document.getElementById("Take").innerHTML = "";
+document.getElementById("Take").innerHTML = "Take = " = take;
 
 -------------------------
 
