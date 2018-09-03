@@ -387,8 +387,9 @@ function diamondSea(){
 /*
 Small-Size Banks
 */
-function (){
-  var take = "$";
+function shoresideBank(){
+  var sbtake = "$6,016,540";
+  document.getElementById("sbTake").innerHTML = "Take = " + sbtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -407,7 +408,6 @@ function (){
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
-  document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("brTake").innerHTML = "";
   document.getElementById("jcTake").innerHTML = "";
