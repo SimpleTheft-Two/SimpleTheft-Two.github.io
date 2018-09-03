@@ -22,6 +22,15 @@ document.getElementById("").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
+  document.getElementById("Take").innerHTML = "";
 
 -------------------------
 
@@ -379,3 +388,6 @@ function diamondSea(){
 /*
 Small-Size Banks
 */
+function (){
+  var take = "$";
+}
