@@ -573,8 +573,8 @@ function (){
 /*
 Large-Size Banks
 */
-function (){
-  var take = "$";
+function westBank(){
+  var wbtake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -603,8 +603,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var take = "$";
+function jefferiesBank(){
+  var jbtake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -633,8 +633,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var take = "$";
+function roseHoldings(){
+  var rhtake = "$";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -661,5 +661,5 @@ function (){
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("jbTake").innerHTML = "";
-  document.getElementById("rhTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "Take = " + rhtake;
 }
