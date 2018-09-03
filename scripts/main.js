@@ -376,3 +376,6 @@ function diamondSea(){
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
 }
+/*
+Small-Size Banks
+*/
