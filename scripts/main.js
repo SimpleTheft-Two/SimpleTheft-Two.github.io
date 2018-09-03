@@ -637,6 +637,7 @@ function jefferiesBank(){
 }
 function roseHoldings(){
   var rhtake = "$34,205,551";
+  document.getElementById("rhTake").innerHTML = "Take = " + rhtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -663,5 +664,4 @@ function roseHoldings(){
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTakeT").innerHTML = "";
   document.getElementById("jbTake").innerHTML = "";
-  document.getElementById("rhTake").innerHTML = "Take = " + rhtake;
 }
