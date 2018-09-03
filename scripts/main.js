@@ -70,8 +70,8 @@ function crystaLiquor(){
 }
 function liquorTown(){
   var lttake = "$13,882";
+  document.getElementById("ltTake").innerHTML = "Take = " + lttake;
   document.getElementById("clTake").innerHTML = "";
-  document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
@@ -100,9 +100,9 @@ function liquorTown(){
 }
 function wilsonLiquor(){
   var wltake = "$9,862";
+  document.getElementById("wlTake").innerHTML = "Take = " + wltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
-  document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
@@ -133,10 +133,10 @@ Medium-Size Liquor
 */
 function liquorMart(){
   var lmtake = "$8,048";
+  document.getElementById("lmTake").innerHTML = "Take = " + lmtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
-  document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
@@ -167,7 +167,7 @@ function marketLiquor(){
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
-  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "Take = " + mltake;
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
@@ -198,7 +198,7 @@ function drunkenEagle(){
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
-  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "Take = " + detake;
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
@@ -232,7 +232,7 @@ function woodfortLiquor(){
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
-  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "Take = " + wtake;
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
@@ -263,7 +263,7 @@ function fallsworthLiquor(){
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
-  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "Take = " + fltake;
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
@@ -294,7 +294,7 @@ function drunkWest(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
-  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "Take = " + dwtake;
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
@@ -328,7 +328,7 @@ function engravedHeart(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
-  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "Take = " + ehtake;
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
@@ -359,7 +359,7 @@ function heartStone(){
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
-  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "Take = " + hstake;
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
@@ -390,7 +390,7 @@ function jeweLove(){
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
-  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "Take = " + jltake;
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
@@ -424,7 +424,7 @@ function hardRocks(){
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
-  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "Take = " + hrtake;
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
@@ -455,7 +455,7 @@ function seaRocks(){
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
-  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "Take = " + srtake;
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
@@ -486,7 +486,7 @@ function engagementJewelry(){
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
-  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "Take = " + ejtake;
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
@@ -520,7 +520,7 @@ function goldenGoose(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
-  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "Take = " + ggtake;
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
   document.getElementById("sbTake").innerHTML = "";
@@ -551,7 +551,7 @@ function goldLodge(){
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
-  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "Take = " + gltake;
   document.getElementById("dsTake").innerHTML = "";
   document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
@@ -582,7 +582,7 @@ function diamondSea(){
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
-  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "Take = " + dstake;
   document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("brTake").innerHTML = "";
