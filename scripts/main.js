@@ -19,6 +19,9 @@ document.getElementById("").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
 
 -------------------------
 
@@ -310,3 +313,66 @@ function engagementJewelry(){
 /*
 Large-Size Jewelry
 */
+function goldenGoose(){
+  var ggtake = "$1,494,873";
+  document.getElementById("ggTake").innerHTML = "Take = " + ggtake;
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+}
+function goldLodge(){
+  var gltake = "$2,438,782";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "Take = " + gltake;
+  document.getElementById("dsTake").innerHTML = "";
+}
+function diamondSea(){
+  var dstake = "$2,844,666";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "Take = " + dstake;
+}
