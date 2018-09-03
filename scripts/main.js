@@ -389,8 +389,9 @@ function diamondSea(){
 /*
 Small-Size Banks
 */
-function (){
-  var take = "$";
+function shoresideBank(){
+  var sbtake = "$9,615,499";
+  document.getElementById("sbTake").innerHTML = "Take = " = sbtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -409,7 +410,6 @@ function (){
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
-  document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("brTake").innerHTML = "";
   document.getElementById("jcTake").innerHTML = "";
@@ -419,8 +419,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var take = "$";
+function woodfortBank(){
+  var wbtake = "$10,418,984";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -440,7 +440,7 @@ function (){
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
   document.getElementById("sbTake").innerHTML = "";
-  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "Take = " + wbtake;
   document.getElementById("brTake").innerHTML = "";
   document.getElementById("jcTake").innerHTML = "";
   document.getElementById("ebTake").innerHTML = "";
@@ -449,8 +449,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var take = "$";
+function bestRegister(){
+  var brtake = "$13,694,689";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -471,7 +471,7 @@ function (){
   document.getElementById("dsTake").innerHTML = "";
   document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
-  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "Take = " + brtake;
   document.getElementById("jcTake").innerHTML = "";
   document.getElementById("ebTake").innerHTML = "";
   document.getElementById("tcTake").innerHTML = "";
@@ -480,10 +480,10 @@ function (){
   document.getElementById("rhTake").innerHTML = "";
 }
 /*
--Size Banks
+Medium-Size Banks
 */
-function (){
-  var jctake = "$";
+function julietsChest(){
+  var jctake = "$15,324,859";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -505,7 +505,7 @@ function (){
   document.getElementById("sbTake").innerHTML = "";
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("brTake").innerHTML = "";
-  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "Take = " + jctake;
   document.getElementById("ebTake").innerHTML = "";
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTakeT").innerHTML = "";
@@ -536,7 +536,7 @@ function (){
   document.getElementById("wbTake").innerHTML = "";
   document.getElementById("brTake").innerHTML = "";
   document.getElementById("jcTake").innerHTML = "";
-  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "Take = " + ebtake;
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTakeT").innerHTML = "";
   document.getElementById("jbTake").innerHTML = "";
@@ -567,13 +567,13 @@ function (){
   document.getElementById("brTake").innerHTML = "";
   document.getElementById("jcTake").innerHTML = "";
   document.getElementById("ebTake").innerHTML = "";
-  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "Take = " + tctake;
   document.getElementById("wbTakeT").innerHTML = "";
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
 /*
--Size Banks
+Large-Size Banks
 */
 function (){
   var wbtaket = "$";
@@ -601,7 +601,7 @@ function (){
   document.getElementById("jcTake").innerHTML = "";
   document.getElementById("ebTake").innerHTML = "";
   document.getElementById("tcTake").innerHTML = "";
-  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "Take = " + wbtaket;
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
