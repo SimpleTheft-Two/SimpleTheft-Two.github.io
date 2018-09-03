@@ -55,11 +55,23 @@ function crystaLiquor(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function liquorTown(){
   var lttake = "$13,882";
-  document.getElementById("ltTake").innerHTML = "Take = " + lttake;
   document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
@@ -73,12 +85,24 @@ function liquorTown(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function wilsonLiquor(){
   var wltake = "$9,862";
-  document.getElementById("wlTake").innerHTML = "Take = " + wltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
@@ -91,16 +115,28 @@ function wilsonLiquor(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Medium-Size Liquor
 */
 function liquorMart(){
   var lmtake = "$8,048";
-  document.getElementById("lmTake").innerHTML = "Take = " + lmtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
@@ -112,14 +148,26 @@ function liquorMart(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function marketLiquor(){
   var mltake = "$5,450";
-  document.getElementById("mlTake").innerHTML = "Take = " + mltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
@@ -130,15 +178,27 @@ function marketLiquor(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function drunkenEagle(){
   var detake = "$8,478";
-  document.getElementById("deTake").innerHTML = "Take = " + detake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
@@ -148,19 +208,31 @@ function drunkenEagle(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Small-Size Liquor
 */
 function woodfortLiquor(){
   var wtake = "$2,277";
-  document.getElementById("wTake").innerHTML = "Take = " + wtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
   document.getElementById("lmTake").innerHTML = "";
   document.getElementById("mlTake").innerHTML = "";
   document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
@@ -169,28 +241,21 @@ function woodfortLiquor(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function fallsworthLiquor(){
   var fltake = "$2,050";
-  document.getElementById("flTake").innerHTML = "Take = " + fltake;
-  document.getElementById("clTake").innerHTML = "";
-  document.getElementById("ltTake").innerHTML = "";
-  document.getElementById("wlTake").innerHTML = "";
-  document.getElementById("lmTake").innerHTML = "";
-  document.getElementById("mlTake").innerHTML = "";
-  document.getElementById("deTake").innerHTML = "";
-  document.getElementById("wTake").innerHTML = "";
-  document.getElementById("dwTake").innerHTML = "";
-  document.getElementById("ehTake").innerHTML = "";
-  document.getElementById("hsTake").innerHTML = "";
-  document.getElementById("jlTake").innerHTML = "";
-  document.getElementById("hrTake").innerHTML = "";
-  document.getElementById("srTake").innerHTML = "";
-  document.getElementById("ejTake").innerHTML = "";
-}
-function drunkWest(){
-  var dwtake = "$1,752";
-  document.getElementById("dwTake").innerHTML = "Take = " + dwtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -199,19 +264,61 @@ function drunkWest(){
   document.getElementById("deTake").innerHTML = "";
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function drunkWest(){
+  var dwtake = "$1,752";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Small-Size Jewelry
 */
 function engravedHeart(){
   var ehtake = "$722,282";
-  document.getElementById("ehTake").innerHTML = "Take = " + ehtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -221,33 +328,27 @@ function engravedHeart(){
   document.getElementById("wTake").innerHTML = "";
   document.getElementById("flTake").innerHTML = "";
   document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function heartStone(){
   var hstake = "$682,844";
-  document.getElementById("hsTake").innerHTML = "Take = " + hstake;
-  document.getElementById("clTake").innerHTML = "";
-  document.getElementById("ltTake").innerHTML = "";
-  document.getElementById("wlTake").innerHTML = "";
-  document.getElementById("lmTake").innerHTML = "";
-  document.getElementById("mlTake").innerHTML = "";
-  document.getElementById("deTake").innerHTML = "";
-  document.getElementById("wTake").innerHTML = "";
-  document.getElementById("flTake").innerHTML = "";
-  document.getElementById("dwTake").innerHTML = "";
-  document.getElementById("ehTake").innerHTML = "";
-  document.getElementById("jlTake").innerHTML = "";
-  document.getElementById("hrTake").innerHTML = "";
-  document.getElementById("srTake").innerHTML = "";
-  document.getElementById("ejTake").innerHTML = "";
-}
-function jeweLove(){
-  var jltake = "$657,910";
-  document.getElementById("jlTake").innerHTML = "Take = " + jltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -259,16 +360,58 @@ function jeweLove(){
   document.getElementById("dwTake").innerHTML = "";
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function jeweLove(){
+  var jltake = "$657,910";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Medium-Size Jewelry
 */
 function hardRocks(){
   var hrtake = "$1,968,880";
-  document.getElementById("hrTake").innerHTML = "Take = " + hrtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -281,30 +424,24 @@ function hardRocks(){
   document.getElementById("ehTake").innerHTML = "";
   document.getElementById("hsTake").innerHTML = "";
   document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function seaRocks(){
   var srtake = "$1,012,324";
-  document.getElementById("srTake").innerHTML = "Take = " + srtake;
-  document.getElementById("clTake").innerHTML = "";
-  document.getElementById("ltTake").innerHTML = "";
-  document.getElementById("wlTake").innerHTML = "";
-  document.getElementById("lmTake").innerHTML = "";
-  document.getElementById("mlTake").innerHTML = "";
-  document.getElementById("deTake").innerHTML = "";
-  document.getElementById("wTake").innerHTML = "";
-  document.getElementById("flTake").innerHTML = "";
-  document.getElementById("dwTake").innerHTML = "";
-  document.getElementById("ehTake").innerHTML = "";
-  document.getElementById("hsTake").innerHTML = "";
-  document.getElementById("jlTake").innerHTML = "";
-  document.getElementById("hrTake").innerHTML = "";
-  document.getElementById("ejTake").innerHTML = "";
-}
-function engagementJewelry(){
-  var ejtake = "$980,864";
-  document.getElementById("ejTake").innerHTML = "Take = " + ejtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -319,13 +456,55 @@ function engagementJewelry(){
   document.getElementById("jlTake").innerHTML = "";
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function engagementJewelry(){
+  var ejtake = "$980,864";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Large-Size Jewelry
 */
 function goldenGoose(){
   var ggtake = "$1,494,873";
-  document.getElementById("ggTake").innerHTML = "Take = " + ggtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -341,33 +520,21 @@ function goldenGoose(){
   document.getElementById("hrTake").innerHTML = "";
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
   document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 function goldLodge(){
   var gltake = "$2,438,782";
-  document.getElementById("glTake").innerHTML = "Take = " + gltake;
-  document.getElementById("clTake").innerHTML = "";
-  document.getElementById("ltTake").innerHTML = "";
-  document.getElementById("wlTake").innerHTML = "";
-  document.getElementById("lmTake").innerHTML = "";
-  document.getElementById("mlTake").innerHTML = "";
-  document.getElementById("deTake").innerHTML = "";
-  document.getElementById("wTake").innerHTML = "";
-  document.getElementById("flTake").innerHTML = "";
-  document.getElementById("dwTake").innerHTML = "";
-  document.getElementById("ehTake").innerHTML = "";
-  document.getElementById("hsTake").innerHTML = "";
-  document.getElementById("jlTake").innerHTML = "";
-  document.getElementById("hrTake").innerHTML = "";
-  document.getElementById("srTake").innerHTML = "";
-  document.getElementById("ejTake").innerHTML = "";
-  document.getElementById("ggTake").innerHTML = "";
-  document.getElementById("dsTake").innerHTML = "";
-}
-function diamondSea(){
-  var dstake = "$2,844,666";
-  document.getElementById("dsTake").innerHTML = "Take = " + dstake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -385,6 +552,46 @@ function diamondSea(){
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
+}
+function diamondSea(){
+  var dstake = "$2,844,666";
+  document.getElementById("clTake").innerHTML = "";
+  document.getElementById("ltTake").innerHTML = "";
+  document.getElementById("wlTake").innerHTML = "";
+  document.getElementById("lmTake").innerHTML = "";
+  document.getElementById("mlTake").innerHTML = "";
+  document.getElementById("deTake").innerHTML = "";
+  document.getElementById("wTake").innerHTML = "";
+  document.getElementById("flTake").innerHTML = "";
+  document.getElementById("dwTake").innerHTML = "";
+  document.getElementById("ehTake").innerHTML = "";
+  document.getElementById("hsTake").innerHTML = "";
+  document.getElementById("jlTake").innerHTML = "";
+  document.getElementById("hrTake").innerHTML = "";
+  document.getElementById("srTake").innerHTML = "";
+  document.getElementById("ejTake").innerHTML = "";
+  document.getElementById("ggTake").innerHTML = "";
+  document.getElementById("glTake").innerHTML = "";
+  document.getElementById("dsTake").innerHTML = "";
+  document.getElementById("sbTake").innerHTML = "";
+  document.getElementById("wbTake").innerHTML = "";
+  document.getElementById("brTake").innerHTML = "";
+  document.getElementById("jcTake").innerHTML = "";
+  document.getElementById("ebTake").innerHTML = "";
+  document.getElementById("tcTake").innerHTML = "";
+  document.getElementById("wbTakeT").innerHTML = "";
+  document.getElementById("jbTake").innerHTML = "";
+  document.getElementById("rhTake").innerHTML = "";
 }
 /*
 Small-Size Banks
