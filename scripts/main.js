@@ -1,7 +1,7 @@
 /*
 
 document.getElementById("Take").innerHTML = "";
-document.getElementById("Take").innerHTML = "Take = " = take;
+document.getElementById("Take").innerHTML = "Take = " + take;
 
 -------------------------
 
@@ -391,7 +391,7 @@ Small-Size Banks
 */
 function shoresideBank(){
   var sbtake = "$9,615,499";
-  document.getElementById("sbTake").innerHTML = "Take = " = sbtake;
+  document.getElementById("sbTake").innerHTML = "Take = " + sbtake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -632,7 +632,7 @@ function (){
   document.getElementById("ebTake").innerHTML = "";
   document.getElementById("tcTake").innerHTML = "";
   document.getElementById("wbTakeT").innerHTML = "";
-  document.getElementById("jbTake").innerHTML = "Take = " = jbtake;
+  document.getElementById("jbTake").innerHTML = "Take = " + jbtake;
   document.getElementById("rhTake").innerHTML = "";
 }
 function roseHoldings(){
