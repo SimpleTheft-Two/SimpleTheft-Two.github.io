@@ -336,6 +336,7 @@ function goldenGoose(){
 }
 function goldLodge(){
   var gltake = "$2,438,782";
+  document.getElementById("glTake").innerHTML = "Take = " + gltake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -352,11 +353,11 @@ function goldLodge(){
   document.getElementById("srTake").innerHTML = "";
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
-  document.getElementById("glTake").innerHTML = "Take = " + gltake;
   document.getElementById("dsTake").innerHTML = "";
 }
 function diamondSea(){
   var dstake = "$2,844,666";
+  document.getElementById("dsTake").innerHTML = "Take = " + dstake;
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -374,5 +375,4 @@ function diamondSea(){
   document.getElementById("ejTake").innerHTML = "";
   document.getElementById("ggTake").innerHTML = "";
   document.getElementById("glTake").innerHTML = "";
-  document.getElementById("dsTake").innerHTML = "Take = " + dstake;
 }
