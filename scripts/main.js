@@ -512,8 +512,8 @@ function julietsChest(){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var ebtake = "$";
+function excelBank(){
+  var ebtake = "$19,159,492";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -542,8 +542,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var tctake = "$";
+function treasureChest(){
+  var tctake = "$23,535,524";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -575,8 +575,8 @@ function (){
 /*
 Large-Size Banks
 */
-function (){
-  var wbtaket = "$";
+function westBank(){
+  var wbtaket = "$25,036,258";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -605,8 +605,8 @@ function (){
   document.getElementById("jbTake").innerHTML = "";
   document.getElementById("rhTake").innerHTML = "";
 }
-function (){
-  var jbtake = "$";
+function jefferiesBank(){
+  var jbtake = "$29,275,561";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
@@ -636,7 +636,7 @@ function (){
   document.getElementById("rhTake").innerHTML = "";
 }
 function roseHoldings(){
-  var rhtake = "$";
+  var rhtake = "$34,205,551";
   document.getElementById("clTake").innerHTML = "";
   document.getElementById("ltTake").innerHTML = "";
   document.getElementById("wlTake").innerHTML = "";
