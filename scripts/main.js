@@ -47,6 +47,24 @@ $(function(){
     var gltake = "$";
     $("#glTake").html("Take = " + gltake);
   }
+  $.fn.diamondsea = function (){
+    var dstake = "$";
+    $("#dsTake").html("Take = " + dstake);
+  }
+  //Small Size Banks
+  $.fn.shoresidebank = function (){
+    var sbtake = "$";
+    $("#sbTake").html("Take = " + sbtake);
+  }
+  $.fn.woodfortBank = function (){
+    var wbtake = "$";
+    $("#wbTake").html("Take = " + wbtake);
+  }
+  $.fn.bestregister = function (){
+    var brtake = "$";
+    $("#brTake").html("Take = " + brtake);
+  }
+  //Medium Size Banks
   $.fn. = function (){
     var take = "$";
     $("#Take").html("Take = " + take);
@@ -59,47 +77,7 @@ $(function(){
     var take = "$";
     $("#Take").html("Take = " + take);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
-  }
+  //Large Size Banks
   $.fn. = function (){
     var take = "$";
     $("#Take").html("Take = " + take);
