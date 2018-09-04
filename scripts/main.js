@@ -77,4 +77,43 @@ $(function(){
     var jltake = "$657,910";
     $("#jlTake").html("Take = " + jltake);
   }
+  //Small Size Banks
+  $.fn.shoresidebank = function (){
+    var sbtake = "$9,615,499";
+    $("#sbTake").html("Take = " + sbtake);
+  }
+  $.fn.woodfortbank = function (){
+    var wbtake = "$10,418,984";
+    $("#wbTake").html("Take = " + wbtake);
+  }
+  $.fn.bestregister = function (){
+    var brtake = "$13,694,689";
+    $("#brTake").html("Take = " + brtake);
+  }
+  //Medium Size Banks
+  $.fn.julietstreasure = function (){
+    var jttake = "$15,324,859";
+    $("#jtTake").html("Take = " + jttake);
+  }
+  $.fn.excelbank = function (){
+    var ebtake = "$19,159,492";
+    $("#ebTake").html("Take = " + ebtake);
+  }
+  $.fn.treasurechest = function (){
+    var tctake = "$23,535,524";
+    $("#tcTake").html("Take = " + tctake);
+  }
+  //Large Size Banks
+  $.fn. = function (){
+    var take = "$";
+    $("#Take").html("Take = " + take);
+  }
+  $.fn. = function (){
+    var take = "$";
+    $("#Take").html("Take = " + take);
+  }
+  $.fn. = function (){
+    var take = "$";
+    $("#Take").html("Take = " + take);
+  }
 });
