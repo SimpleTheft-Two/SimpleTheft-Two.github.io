@@ -65,29 +65,29 @@ $(function(){
     $("#brTake").html("Take = " + brtake);
   }
   //Medium Size Banks
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.julietschest = function (){
+    var jctake = "$";
+    $("#jcTake").html("Take = " + jctake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.excelbank = function (){
+    var ebtake = "$";
+    $("#ebTake").html("Take = " + ebtake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.treasurechest = function (){
+    var tctake = "$";
+    $("#tcTake").html("Take = " + tctake);
   }
   //Large Size Banks
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.westbank = function (){
+    var wbtaket = "$";
+    $("#wbTakeT").html("Take = " + wbtaket);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.jefferiesbank = function (){
+    var jbtake = "$";
+    $("#jbTake").html("Take = " + jbtake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.roseholdings = function (){
+    var rhtake = "$";
+    $("#rhTake").html("Take = " + rhtake);
   }
 });
