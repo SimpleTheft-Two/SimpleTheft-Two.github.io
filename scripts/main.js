@@ -116,4 +116,34 @@ $(function(){
     var rhtake = "$34,205,551";
     $("#rhTake").html("Take = " + rhtake);
   }
+  //Liquor Buttons
+  $("#clButton").crystaliquor();
+  $("#ltButton").liquortown();
+  $("#wlButton").wilsonliquor();
+  $("#lmButton").liquormart();
+  $("#mlButton").marketliquor();
+  $("#deButton").drunkeneagle();
+  $("#wButton").woodfortliquor();
+  $("#flButton").fallsworthliquor();
+  $("#dwButton").drunkwest();
+  //Jewelry Buttons
+  $("#ggButton").goldengoose();
+  $("#glButton").goldlodge();
+  $("#dsButton").diamondsea();
+  $("#hrButton").hardrocks();
+  $("#srButton").searocks();
+  $("#ejButton").engagementjewelry();
+  $("#ehButton").engravedheart();
+  $("#hsButton").heartstone();
+  $("#jlButton").jewelove();
+  //Bank Buttons
+  $("#sbButton").shoresidebank();
+  $("#wbButton").woodfortbank();
+  $("#brButton").bestregister();
+  $("#jtButton").julietstreasure();
+  $("#ebButton").excelbank();
+  $("#tcButton").treasurechest();
+  $("#wbtButton").westbank();
+  $("#jbButton").jefferiesbank();
+  $("#rhButton").roseholdings();
 });
