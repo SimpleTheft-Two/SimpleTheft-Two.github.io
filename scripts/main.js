@@ -53,28 +53,28 @@ $(function(){
   }
   //Medium Size Jewelry
   $.fn.hardrocks = function (){
-    var hrtake = "$";
+    var hrtake = "$1,968,880";
     $("#hrTake").html("Take = " + hrtake);
   }
   $.fn.searocks = function (){
-    var srtake = "$";
+    var srtake = "$1,012,324";
     $("#srTake").html("Take = " + srtake);
   }
   $.fn.engagementjewelry = function (){
-    var ejtake = "$";
+    var ejtake = "$980,864";
     $("#ejTake").html("Take = " + ejtake);
   }
   //Small Size Jewelry
   $.fn.engravedheart = function (){
-    var ehtake = "$";
+    var ehtake = "$722,282";
     $("#ehTake").html("Take = " + ehtake);
   }
   $.fn.heartstone = function (){
-    var hstake = "$";
+    var hstake = "$682,844";
     $("#hsTake").html("Take = " + hstake);
   }
   $.fn.jewelove = function (){
-    var jltake = "$";
+    var jltake = "$657,910";
     $("#jlTake").html("Take = " + jltake);
   }
 });
