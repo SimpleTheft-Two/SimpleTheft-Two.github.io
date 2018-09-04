@@ -104,16 +104,16 @@ $(function(){
     $("#tcTake").html("Take = " + tctake);
   }
   //Large Size Banks
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.westbank = function (){
+    var wbtaket = "$25,036,258";
+    $("#wbTakeT").html("Take = " + wbtaket);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.jefferiesbank = function (){
+    var jbtake = "$29,275,561";
+    $("#jbTake").html("Take = " + jbtake);
   }
-  $.fn. = function (){
-    var take = "$";
-    $("#Take").html("Take = " + take);
+  $.fn.roseholdings = function (){
+    var rhtake = "$34,205,551";
+    $("#rhTake").html("Take = " + rhtake);
   }
 });
